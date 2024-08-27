@@ -1,0 +1,30 @@
+{
+  "experienceTitle": "EXPERIÈNCIA PROFESSIONAL",
+  "experienceDetails": [
+    {
+      "date": "Actualment",
+      "enterprise": "Capgemini",
+      "jobTitle": "Projecte en una empresa d'assegurances irlandesa",
+      "functions": "QA Automation| Back End",
+      "description": "Formant part de l'equip internacional de QA Automationy del de desenvolupament automatitzem proves (de fum, regressió, E2E, unitaries…) així com 'spikes' per assegurar la qualitat del producte i el seu funcionamient duent-ho a terme amb metodologies àgils sota el marc de treball Scrum.",
+      "technologies": "Java, Selenium, TestNG, Postman, Jira, Git"
+    },
+    {
+      "date": "Oct23 – Nov23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Projecte intern",
+      "functions": "QA Automation| Back End",
+      "description": "Durant la meva breu estada, vaig poder crear un servei batch amb Spring Batch per a la gestió de persones, així com l'automatització de proves amb JUnit per garantir la qualitat del codi.",
+      "technologies": "Java, Spring Boot, Spring Batch, Mockito, Junit"
+    },
+
+    {
+      "date": "Sep 22 – Oct 23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Projecte en una empresa ferroviària nacional",
+      "functions": "QA | FullStack",
+      "description": "Davant la dificultat del projecte, em vaig centrar a aprendre sobre les necessitats del client, el negoci i l'aplicació, posicionant-me com una de les persones que més coneixement funcional tenia. És per això que, a més de poder realitzar evolutius i manteniments, vaig estar mà a mà treballant amb el Proxy product owner. Algunes de les tasques més rellevants realitzades en aquest projecte van ser les següents: Com a proxy product owner, vaig validar, entre altres coses, que els requisits complien amb les necessitats del client i els requisits tècnics del sistema. També em vaig encarregar de comunicar els requisits a l'equip de desenvolupament i resoldre qualsevol dubte que sorgís. Això, juntament amb el treball de l'equip de desenvolupament, va contribuir a millorar la satisfacció del client de manera significativa. Com a full stack, una de les tasques que vaig realitzar va ser desenvolupar un evolutiu per a la gestió d'incidències. Vaig implementar els requisits funcionals i tècnics acordats i vaig realitzar proves de la funcionalitat per assegurar el seu correcte funcionament.",
+      "technologies": "Java,  Spring Boot,  TypeScript,  ExtJS6,  IntelliJ,  STS,  Visual Studio,  Code,  Jenkins,  Openshift,  Jira,  Postman,  Office365,  Git,  Figma."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "educationTitle": "FORMACIÓ",
+    "educationDetails": [
+      {
+        "dateEd": "Sep20 – Jun23",
+        "descriptionEd": "CFGS de desenvolupament d'aplicacions web",
+        "place": "CEIFP Carlos III, Cartagena"
+      },
+      {
+        "dateEd": "Jun22 – Sep22",
+        "descriptionEd": "Bootcamp Java i Angular",
+        "place": "Capgemini"
+      }
+    ]
+  }
+]

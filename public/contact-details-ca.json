@@ -1,0 +1,15 @@
+{
+  "name": "Irina",
+  "surname": "Casas Duarte",
+  "alias": "Irina C.",
+  "phone": "638207725",
+  "mail": "irina_cadu@outlook.com",
+  "linkedin": {
+    "linkedInURL": "https://www.linkedin.com/in/irina-casas-duarte",
+    "linkedInIcon": "public/images/linkedin.png"
+  },
+  "github": {
+    "githubURL": "https://github.com/irinacadu",
+    "githubIcon": "public/images/gitHub.png"
+  }
+}

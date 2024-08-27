@@ -1,0 +1,29 @@
+{
+  "experienceTitle": "EXPERIENCIA LABORAL",
+  "experienceDetails": [
+    {
+      "date": "Actualmente",
+      "enterprise": "Capgemini",
+      "jobTitle": "Proyecto en empresa de seguros Irlandesa",
+      "functions": "QA Automation | Back End",
+      "description": "Como parte del equipo internacional de QA Automation y del equipo de desarrollo, automatizamos pruebas (smoke, regresión, E2E, unitarias...) así como spikes para asegurar la calidad del producto y su rendimiento utilizando metodologías ágiles bajo el marco Scrum.",
+      "technologies": "Java, Selenium, TestNG, Postman, Jira, Git"
+    },
+    {
+      "date": "Oct23 – Nov23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Proyecto interno",
+      "functions": "QA Automation | Back End",
+      "description": "Durante mi breve estancia, pude crear un servicio batch con Spring Batch para la gestión de personas, así como la automatización de pruebas con JUnit para garantizar la calidad del código.",
+      "technologies": "Java, Spring Boot, Spring Batch, Mockito, Junit"
+    },
+    {
+      "date": "Sep 22 – Oct 23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Proyecto en empresa ferroviaria nacional",
+      "functions": "QA | FullStack",
+      "description": "Dada la dificultad del proyecto, me enfoqué en aprender acerca de las necesidades del cliente, el negocio y la aplicación, posicionándome como una de las personas que más conocimiento funcional tenía. Es por esto que, además de poder realizar evolutivos y mantenimientos, estuve mano a mano trabajando con el Proxy Product Owner. Algunas de las tareas más relevantes realizadas en este proyecto fueron las siguientes:\n\nComo Proxy Product Owner, validé, entre otras cosas, que los requisitos cumplían con las necesidades del cliente y los requisitos técnicos del sistema. También me encargué de comunicar los requisitos al equipo de desarrollo y resolver cualquier duda que surgiera. Esto, junto con el trabajo del equipo de desarrollo, contribuyó a mejorar la satisfacción del cliente de manera significativa.\n\nComo FullStack, una de las tareas que realicé fue desarrollar un evolutivo para la gestión de incidencias. Implementé los requisitos funcionales y técnicos acordados y realicé pruebas de la funcionalidad para asegurar su correcto funcionamiento.",
+      "technologies": "Java, Spring Boot, TypeScript, ExtJS6, IntelliJ, STS, Visual Studio Code, Jenkins, Openshift, Jira, Postman, Office365, Git, Figma."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "experienceTitle": "JOB EXPERIENCE",
+  "experienceDetails": [
+    {
+      "date": "Currently",
+      "enterprise": "Capgemini",
+      "jobTitle": "Project at an Irish insurance company",
+      "functions": "Back End | QA Automation",
+      "description": "As part of the international QA Automation team and the development team, we automate tests (smoke, regression, E2E, unitaries...) as well as 'spikes' to ensure the quality of the product and its performance using agile methodologies under the Scrum framework.",
+      "technologies": "Java, Selenium, TestNG, Postman, Jira, Git"
+    },
+    {
+      "date": "Oct23 – Nov23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Internal Project",
+      "functions": "Back End | QA Automation",
+      "description": "During my short stay, I was able to create a batch service with Spring Batch for people management, as well as test automation with JUnit to ensure code quality.",
+      "technologies": "Java, Spring Boot, Spring Batch, Mockito, Junit"
+    },
+    {
+      "date": "Sep 22 – Oct 23",
+      "enterprise": "Capgemini",
+      "jobTitle": "Project at national railway company",
+      "functions": "Fullstack | QA",
+      "description": "Given the difficulty of the project, I focused on learning about the needs of the client, the business, and the application, positioning myself as one of the people who had more functional knowledge. Therefore, in addition to being able to perform evolutions and maintenance, I was working hand in hand with the Proxy Product Owner. Some of the most relevant tasks performed in this project were the following:**As Proxy Product Owner**, I validated, among other things, that the requirements met the client needs and the technical requirements of the system. I was also in charge of communicating the requirements to the development team and resolving any doubts that arose. This, together with the work of the development team, helped to significantly improve customer satisfaction.          **As a full stack**, one of the tasks I performed was to develop an evolvability for incident management. I implemented the agreed functional and technical requirements and tested the functionality to ensure it worked correctly.",
+      "technologies": "Java, Spring Boot, TypeScript, ExtJS6, IntelliJ, STS, Visual Studio Code, Jenkins, Openshift, Jira, Postman, Office365, Git, Figma."
+    }
+  ]
+}

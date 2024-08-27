@@ -1,0 +1,17 @@
+[
+  {
+    "educationTitle": "EDUCATION",
+    "educationDetails": [
+      {
+        "dateEd": "Sep20 – Jun23",
+        "descriptionEd": "Senior Level Vocational Training in web development",
+        "place": "CEIFP Carlos III, Cartagena"
+      },
+      {
+        "dateEd": "Jun22 – Sep22",
+        "descriptionEd": "Bootcamp Java and Angular",
+        "place": "Capgemini"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "softSkillsTitle": "PERSONALS",
+  "hardSkillsTitle": "TÈCNIQUES",
+  "sofskillsDetails": [
+    { "soft": "Gestió de canvi", "icon": "multiple_stop" },
+    { "soft": "Mentalitat de creixement", "icon": "rocket_launch" },
+    { "soft": "Mentalitat analítica", "icon": "psychology" },
+    { "soft": "Planificació", "icon": "edit_calendar" },
+    { "soft": "Organització", "icon": "lists" },
+    { "soft": "Responsable", "icon": "alarm_smart_wake" },
+    { "soft": "Lideratge", "icon": "groups" },
+    { "soft": "Gestió de temps", "icon": "manage_history" },
+    { "soft": "Ètica professional", "icon": "diversity_1" },
+    { "soft": "Treball en equip", "icon": "diversity_3" },
+    { "soft": "Creativitat", "icon": "palette" },
+    { "soft": "Implicació", "icon": "approval_delegation" }
+  ],
+  "hardSkillsDetails": [
+    { "hard": "Spring Boot", "img": "spring-boot-logo.png" },
+    { "hard": "Angular 16", "img": "angular.png" },
+    { "hard": "Sencha", "img": "sencha.png" },
+    { "hard": "Java11/+", "img": "java.png" },
+    { "hard": "TypeScript", "img": "typescript.png" },
+    { "hard": "Postgres", "img": "postgresql.png" },
+    { "hard": "SQL", "img": "SQL.png" },
+    { "hard": "Jira", "img": "Jira.png" },
+    { "hard": "Figma", "img": "figma.png" },
+    { "hard": "Jenkins", "img": "jenkins.png" }
+  ]
+}
